@@ -8,7 +8,7 @@ Ever since i got my first computer when i was a kid, software coding has been my
 
 🌱 I’m currently learning Docker & Microservices.
 
-💬 Contact me on WhatsApp [here](https://wa.me/message/44OBR2ND4KVQI1)
+💬 Contact me on Whatsapp [here](https://wa.me/message/44OBR2ND4KVQI1)
 
 ### ![Github stats](https://github-readme-stats.vercel.app/api?username=1ramkrishnan&count_private=true&hide=prs,issues)
 
