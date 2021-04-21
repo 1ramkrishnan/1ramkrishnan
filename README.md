@@ -23,5 +23,5 @@ Ever since i got my first computer when i was a kid, software coding has been my
 [Project payment & Sponsor link](https://rzp.io/l/rkSoftwares)
 
 
-#### “If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.” - Nora Roberts
+#### “Whatever you do in life, surround yourself withs smart people who’ll argue with you.” - John Wooden.
 #### ✌️
