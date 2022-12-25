@@ -31,6 +31,9 @@ Technology focused with 7+ years of experience in capital market, software devel
 
 [Project payment & Sponsor link](https://rzp.io/l/rkSoftwares)
 
+<br>
+<a href='https://ko-fi.com/rkthevar' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a><br>
+
 [CV Download](https://drive.google.com/file/d/12w1osvd-fb0uepgmTN414NOTrXZlGwxQ/view)
 
 
