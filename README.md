@@ -31,7 +31,9 @@ My curiosity drives me to explore new technologies and emerging trends in fintec
 [ChessArena](https://chessarena.com/profile/750754) |
 [Share files via rkCloud](http://cloud.rklab.co.in/s/upload) 
 
-[Résumé](http://cloud.rklab.co.in/s/rkresume)
+[Résumé](http://cloud.rklab.co.in/s/rkresume)<br />
+[Listen to my Résumé in fun way😉](https://cloud.rklab.co.in/s/rkresumepodcast)<br />
+
 
 #### “The only way to do great work is to love what you do.” - Steve Jobs
 #### ✌️
