@@ -12,11 +12,13 @@ My curiosity drives me to explore new technologies and emerging trends in fintec
 [<code><img height="60" width="60" src="https://raw.githubusercontent.com/1ramkrishnan/1Ramkrishnan.github.io/master/images/lsswb150.png"></code>](https://drive.google.com/file/d/1pW2_VcX14IB5j_13cmO8lE0toykxCAGS/view?usp=share_link)
 [<code><img height="60" width="60" src="https://images.credly.com/size/680x680/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png"></code>](https://www.credly.com/badges/5af788da-a8b8-4315-bab3-145b4129537b/public_url)
 [<code><img height="60" width="60" src="https://images.credly.com/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png"></code>](https://www.credly.com/badges/3f34cc17-619e-4feb-8aff-4ead1b2e50ba/public_url)
-### ![Github stats](https://github-readme-stats.vercel.app/api?username=1ramkrishnan&count_private=true&hide=prs,issues)
+### ![Github stats](https://github-readme-stats.vercel.app/api?username=1ramkrishnan&show_icons=true&theme=dark&hide=prs,issues)
 ---
 ### Recent Projects
 
-  [SensAI](https://rklab.co.in/ai)
+  [DigiPin - Geo Location Code](https://digipin.rklab.co.in)
+
+  [SensAI - Selfhosted AI](https://rklab.co.in/ai)
   
   [rkLaB - Homelab v2](https://rklab.co.in/)
 
@@ -30,10 +32,10 @@ My curiosity drives me to explore new technologies and emerging trends in fintec
 [Twitter](https://twitter.com/1rkthevar) | 
 [Facebook](https://www.facebook.com/ramkrishnan.thevar) | 
 [ChessArena](https://chessarena.com/profile/750754) |
-[Share files via rkCloud](http://cloud.rklab.co.in/s/upload) 
+[Share files](http://send.rklab.co.in) 
 
 [Résumé](http://cloud.rklab.co.in/s/rkresume)<br />
-[Listen to my Résumé in fun way😉](https://cloud.rklab.co.in/s/rkresumepodcast)<br />
+[Listen to my Résumé in fun way😉](https://cloud.rklab.co.in/s/resumepodcast)<br />
 
-#### “The only way to do great work is to love what you do.” - Steve Jobs
+#### “you will find your purpose where you find your happiness” 
 #### ✌️
